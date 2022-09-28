@@ -15,3 +15,11 @@ References from the video:
 - McGill, B. J., Etienne, R. S., Gray, J. S., Alonso, D., Anderson, M. J., Benecha, H. K., Dornelas, M., Enquist, B. J., Green, J. L., He, F., Hurlbert, A. H., Magurran, A. E., Marquet, P. A., Maurer, B.A., Ostling, A., Soykan, C. U., Ugland, K. I., & White, E. P. (2007). Species abundance distributions: Moving beyond single prediction theories to integration within an ecological framework. Ecology Letters, 10(10), 995–1015. 
 - White, E. P., Enquist, B. J., & Green, J. L. (2008). On Estimating the Exponent of Power-Law Frequency Distributions. Ecology, 89(4), 905–912. 
 
+## Discussion points from the issues
+
+- How does sample size or bias or method influence SAD calculations?
+- Can SADs be caculated for taxonomic subsets?
+- Can SADs be combined with other data types like age or size structure?
+- Histograms seem bad, is there a "best practice" approach?
+- How can probability mass and cumulative probability mass functions be calculated theoretically?
+- The foundational role of eugenics in statistics is real bad, has anything been done about it?  What can be done about it?
