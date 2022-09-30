@@ -23,3 +23,11 @@ References from the video:
 - Histograms seem bad, is there a "best practice" approach?
 - How can probability mass and cumulative probability mass functions be calculated theoretically?
 - The foundational role of eugenics in statistics is real bad, has anything been done about it?  What can be done about it?
+
+## Resources
+
+- Here is a [link](https://video.maine.edu/media/BIO%20597%3A%20eco-evo%20theory/1_91dxc1mj) to the recording from class (maine.edu login credentials required)
+- Renata's script from class is also now in this repo (direct link [here](https://github.com/eco-evo-thr-2022/05-simple-metrics/blob/main/hill_from_class.R))
+- Here are two useful resources for familiarizing yourself (or re-familiarizing yourself) with R:
+    - A written [tutorial from Software Carpentries](https://swcarpentry.github.io/r-novice-inflammation/01-starting-with-data/index.html) (these folks are great)
+    - A video [tutorial from some random dude](https://www.youtube.com/watch?v=BvKETZ6kr9Q) (Andy skimmed the video to see what topics it covered---it covers all you need---but did not do a deep dive to asses instructional quality)
