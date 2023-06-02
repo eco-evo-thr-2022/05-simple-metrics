@@ -31,3 +31,8 @@ References from the video:
 - Here are two useful resources for familiarizing yourself (or re-familiarizing yourself) with R:
     - A written [tutorial from Software Carpentries](https://swcarpentry.github.io/r-novice-inflammation/01-starting-with-data/index.html) (these folks are great)
     - A video [tutorial from some random dude](https://www.youtube.com/watch?v=BvKETZ6kr9Q) (Andy skimmed the video to see what topics it covered---it covers all you need---but did not do a deep dive to asses instructional quality)
+
+## Funding
+
+Renata Diaz's work on this project was supported by NSF award [DBI-2208901](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2208901&HistoricalAwards=false). 
+
